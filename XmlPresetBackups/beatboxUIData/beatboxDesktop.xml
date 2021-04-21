@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptSlider" id="KickVol" x="0" y="0" style="Vertical"
+             text="Kick" width="80" height="256" tooltip="Snare Drum Volume"
+             itemColour2="4214370866" itemColour="1717727626" middlePosition="0.5"
+             dragDirection="Vertical" bgColour="434455551" defaultValue="1"/>
+  <Component type="ScriptSlider" id="SnareVol" x="169" y="0" style="Vertical"
+             width="80" height="256" tooltip="Snare Drum Volume" itemColour2="4214370866"
+             itemColour="1717004679" middlePosition="0.5" dragDirection="Vertical"
+             bgColour="434455551" defaultValue="1"/>
+  <Component type="ScriptSlider" id="HihatVol" x="339" y="0" style="Vertical"
+             text="Snare" width="80" height="256" tooltip="Snare Drum Volume"
+             itemColour2="4214370866" itemColour="1715625352" middlePosition="0.5"
+             dragDirection="Vertical" bgColour="434455551" defaultValue="1"/>
+  <Component type="ScriptSlider" id="CymVol" x="509" y="0" style="Vertical"
+             text="Snare" width="80" height="256" tooltip="Snare Drum Volume"
+             itemColour2="4214370866" itemColour="1712402271" middlePosition="0.5"
+             dragDirection="Vertical" bgColour="434455551" defaultValue="1"/>
+  <Component type="ScriptSlider" id="KickPan" x="0" y="256" middlePosition="0"
+             stepSize="1" min="-100" max="100" suffix="L" mode="Pan" width="80"
+             height="50" style="Horizontal" bgColour="2070385779" itemColour2="2843762064"
+             itemColour="1723776451"/>
+  <Component type="ScriptSlider" id="SnarePan" x="169" y="256" middlePosition="0"
+             stepSize="1" min="-100" max="100" suffix="L" mode="Pan" width="80"
+             height="50" style="Horizontal" bgColour="2070385779" itemColour2="2843762064"
+             itemColour="1723776451"/>
+  <Component type="ScriptSlider" id="HihatPan" x="339" y="256" middlePosition="0"
+             stepSize="1" min="-100" max="100" suffix="L" mode="Pan" width="80"
+             height="50" style="Horizontal" bgColour="2070385779" itemColour2="2843762064"
+             itemColour="1723776451"/>
+  <Component type="ScriptSlider" id="CymPan" x="509" y="256" middlePosition="0"
+             stepSize="1" min="-100" max="100" suffix="L" mode="Pan" width="80"
+             height="50" style="Horizontal" bgColour="2070385779" itemColour2="2843762064"
+             itemColour="1723776451"/>
+  <Component type="ScriptLabel" id="KickLabel" x="0" y="305" text="Kick" fontSize="22"
+             saveInPreset="1" width="80" height="32" editable="0" fontName="Century Gothic"
+             itemColour2="4213515557"/>
+  <Component type="ScriptLabel" id="SnareLabel" x="169" y="305" text="Snare"
+             fontSize="22" saveInPreset="1" width="80" height="32" editable="0"
+             fontName="Century Gothic"/>
+  <Component type="ScriptLabel" id="HihatLabel" x="339" y="305" text="Hihat"
+             fontSize="22" saveInPreset="1" width="80" height="32" editable="0"
+             fontName="Century Gothic"/>
+  <Component type="ScriptLabel" id="CymLabel" x="509" y="305" text="Cymbal"
+             fontSize="22" saveInPreset="1" width="80" height="32" editable="0"
+             fontName="Century Gothic"/>
+</ContentProperties>

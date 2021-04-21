@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Mouth_Crash" RRGroupAmount="4" MicPositions=";" SaveMode="2">
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Mouth_Crash_01.wav" Duplicate="0" MonolithOffset="0"
+          MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Mouth_Crash_02.wav" Duplicate="0" MonolithOffset="147456"
+          MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Mouth_Crash_03.wav" Duplicate="0" MonolithOffset="294912"
+          MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Mouth_Crash_04.wav" Duplicate="0" MonolithOffset="442368"
+          MonolithLength="147456" SampleRate="44100"/>
+</samplemap>

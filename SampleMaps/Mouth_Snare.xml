@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Mouth_Snare" RRGroupAmount="4" MicPositions=";" SaveMode="2">
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Mouth_Snare_01.wav" Duplicate="1" SampleEnd="14419"
+          LoopEnabled="0" Volume="0" MonolithOffset="0" MonolithLength="147456"
+          SampleRate="44100"/>
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Mouth_Snare_02.wav" Duplicate="1" SampleEnd="15390"
+          MonolithOffset="147456" MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Mouth_Snare_03.wav" Duplicate="1" SampleEnd="13074"
+          MonolithOffset="294912" MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Mouth_Snare_04.wav" Duplicate="1" SampleEnd="12999"
+          MonolithOffset="442368" MonolithLength="147456" SampleRate="44100"/>
+</samplemap>
